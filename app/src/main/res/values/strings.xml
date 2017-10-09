@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">萌哒哒笑话</string>
+    <string name="action_about">关于</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="text">段子</string>
+    <string name="image">图片</string>
+    <string name="gif">动图</string>
+</resources>
